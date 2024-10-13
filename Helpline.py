@@ -1,3 +1,9 @@
+#gitub
+# git init
+# git add .
+# git commit -m"message"
+# git status
+
 #link to practice
 #   https://www.geeksforgeeks.org/python-programming-examples/ 
 
