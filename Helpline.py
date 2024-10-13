@@ -30,3 +30,19 @@ returns the factorial of desired number.'''
 '''This Python code calculates the factorial of n using NumPy.
 It creates a list of numbers from 1 to n, computes their product
 with numpy.prod(), and prints the result.'''
+
+
+num=153
+origin = num
+ans = 0
+while(num>0):
+    lastdigit = num %10
+    num = num//10
+    cub = lastdigit**3
+    ans = ans + cub
+
+if(ans == origin):
+    print("yes")
+
+else:
+    print("no")
