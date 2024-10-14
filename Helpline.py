@@ -38,3 +38,6 @@ It creates a list of numbers from 1 to n, computes their product
 with numpy.prod(), and prints the result.'''
 
 
+
+#flag variable
+#flag = True  # or flag = False
