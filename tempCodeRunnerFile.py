@@ -1,1 +1,1 @@
-print(r)
+n=len(arr)
